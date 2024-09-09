@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>COba git remote</h1>
+    <h1>Coba git remote</h1>
 </body>
 </html>
